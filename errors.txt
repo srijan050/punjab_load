@@ -1,0 +1,7 @@
+MAPE (used sklearn mean_absolute_percentage_error) : 
+Score across folds 0.3062
+Fold scores:[0.3744196288210887, 0.28992211019102176, 0.31001303739623065, 0.2562279943306429, 0.30047437646557273]
+
+MSE (used sklearn mean_squared_error) : 
+Score across folds 5.4981
+Fold scores:[5.498054257725965]
